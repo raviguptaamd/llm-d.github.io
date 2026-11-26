@@ -593,6 +593,7 @@ gyliu513:
 prateekkumar:
   name: Prateek Kumar
   title: AMD
+  url: https://github.com/PrateekKumar1709
   image_url: https://avatars.githubusercontent.com/u/85689959?v=4
   socials:
     linkedin: prateek1709
@@ -817,6 +818,7 @@ shikhapatel:
   email: shiksha.patel@amd.com
   image_url: /img/blogs/shiksha-patel.jpg
   socials:
+    linkedin: shikshap
     github: https://github.com/shikamd123
 
 vincentcave:
@@ -826,6 +828,7 @@ vincentcave:
   email: Vincent.Cave@amd.com
   image_url: https://github.com/vcave.png
   socials:
+    linkedin: vcave
     github: https://github.com/vcave
 
 ravigupta:
@@ -835,6 +838,7 @@ ravigupta:
   email: ravi.gupta@amd.com
   image_url: /img/blogs/ravi-gupta.jpg
   socials:
+    linkedin: ravi-g-a717b157
     github: https://github.com/raviguptaamd
 
 anshuraina:
@@ -843,6 +847,8 @@ anshuraina:
   url: https://rocm.blogs.amd.com/authors/anshu-raina.html
   email: Anshu.Raina@amd.com
   image_url: /img/blogs/anshu-raina.jpg
+  socials:
+    linkedin: anshu-raina
 
 nitinsingh:
   name: Nitin Singh
@@ -850,6 +856,7 @@ nitinsingh:
   url: https://github.com/nitsingh2
   image_url: https://github.com/nitsingh2.png
   socials:
+    linkedin: nitin-singh-31674564
     github: https://github.com/nitsingh2
 
 chaitanyalolla:
@@ -858,11 +865,17 @@ chaitanyalolla:
   url: https://github.com/lcskrishna
   image_url: https://github.com/lcskrishna.png
   socials:
+    linkedin: chaitanyasrikrishna
     github: https://github.com/lcskrishna
 
 aswinmathews:
   name: Aswin Mathews
   title: AMD
+  url: https://github.com/amathews-amd
+  image_url: /img/blogs/aswin-mathews.jpg
+  socials:
+    linkedin: aswin-john-mathews
+    github: https://github.com/amathews-amd
 
 onilgunawardana:
   name: Onil Gunawardana
@@ -870,18 +883,24 @@ onilgunawardana:
   url: https://rocm.blogs.amd.com/authors/onil-gunawardana.html
   image_url: https://rocm.blogs.amd.com/_static/Onil-Gunawardana.jpg
   socials:
+    linkedin: onilgunawardana
     github: https://github.com/onil-gunawardana-amd
 
 pengsun:
   name: Peng Sun
   title: AMD
   url: https://rocm.blogs.amd.com/authors/peng-sun.html
+  image_url: /img/blogs/peng-sun.jpg
+  socials:
+    linkedin: pengsun86
 
 emadbarsoum:
   name: Emad Barsoum
   title: AMD
   url: https://rocm.blogs.amd.com/authors/emad-barsoum.html
   image_url: https://rocm.blogs.amd.com/_static/emad-barsoum.jpeg
+  socials:
+    linkedin: ebarsoum
 
 niliguy-ibm:
   name: Nili Guy
